@@ -1,9 +1,9 @@
 # coastwatch_oscar
 Plot CoastWatch (NOAA) and OSCAR (JPL) original and DINEOF (NCSU) fields for the Carolinas  
 
-conda env create -n ncep_test -f=ncep_test.yml  
-conda activate ncep_test  
-python ncep_test.py  
+conda env create -n coastwatch_oscar -f=coastwatch_oscar.yml    
+conda activate coastwatch_oscar    
+python coastwatch_oscar.py  
 
 Joseph B. Zambon  
 jbzambon@ncsu.edu  
